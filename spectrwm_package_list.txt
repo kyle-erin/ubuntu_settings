@@ -1,0 +1,10 @@
+libxrandr-dev
+libxcursor-dev
+libxft-dev
+libx11-xcb-dev
+libxcb-util-dev
+libxcb-iccccm4-dev
+libxcb-keysyms1-dev
+libxcb-xtest0-dev
+libxcb-randr0-dev
+libxt-dev
